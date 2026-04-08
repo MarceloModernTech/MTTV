@@ -1,10 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yo6hRmqjhoI74Txazrwqhjv5uu5YW71LCj7kslTzWcW7g.png" group-title="Brazil",BR: ESPN
-http://media2.xyz:8080/live/Darrin/Paulding/120621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Pop" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78R36XWYXWGQns6z0sVfBDkKeP3iY1rN1dvUZGi3b6_Wog.png" group-title="Brazil",BR: HBO Pop
-http://media2.xyz:8080/live/Darrin/Paulding/120697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICKONLINE" tvg-logo="https://x1co.com.br/logo.png" group-title="➡️ NICKONLINE",NICKONLINE
+
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://x1co.com.br/logo.png" group-title="Infantil",NICKONLINE
 https://x1co.com.br:8443/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yo6hRmqjhoI74Txazrwqhjv5uu5YW71LCj7kslTzWcW7g.png" group-title="Esportes",BR: ESPN
+http://media2.xyz:8080/live/Darrin/Paulding/120621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Pop" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78R36XWYXWGQns6z0sVfBDkKeP3iY1rN1dvUZGi3b6_Wog.png" group-title="Esportes",BR: HBO Pop
+http://media2.xyz:8080/live/Darrin/Paulding/120697.m3u8
+
 #EXTINF:-1 tvg-id="ForaTedioTV" tvg-name="Fora Tedio TV" tvg-logo="https://www.foratedio.com/img/icon_foratediotv-192x192.png" group-title="PEGADINHAS",Fora Tedio TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br@SD" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="General",Adesso TV (720p)
