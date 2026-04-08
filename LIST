@@ -1,126 +1,123 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil", Nickelodeon
-https://x1co.com.br:8443/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yo6hRmqjhoI74Txazrwqhjv5uu5YW71LCj7kslTzWcW7g.png" group-title="Esportes",BR: ESPN
 http://media2.xyz:8080/live/Darrin/Paulding/120621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Pop" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78R36XWYXWGQns6z0sVfBDkKeP3iY1rN1dvUZGi3b6_Wog.png" group-title="Esportes",BR: HBO Pop
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Pop" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78R36XWYXWGQns6z0sVfBDkKeP3iY1rN1dvUZGi3b6_Wog.png" group-title="Filmes e Séries",BR: HBO Pop
 http://media2.xyz:8080/live/Darrin/Paulding/120697.m3u8
-
-#EXTINF:-1 tvg-id="ForaTedioTV" tvg-name="Fora Tedio TV" tvg-logo="https://www.foratedio.com/img/icon_foratediotv-192x192.png" group-title="PEGADINHAS",Fora Tedio TV
+#EXTINF:-1 tvg-id="" tvg-name="NICKONLINE" tvg-logo="https://x1co.com.br/logo.png" group-title="Infantil",NICKONLINE
+https://x1co.com.br:8443/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ForaTedioTV" tvg-name="Fora Tedio TV" tvg-logo="https://www.foratedio.com/img/icon_foratediotv-192x192.png" group-title="Entretenimento",Fora Tedio TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
-#EXTINF:-1 tvg-id="AdessoTV.br@SD" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="General",Adesso TV (720p)
+#EXTINF:-1 tvg-id="AdessoTV.br@SD" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Canais Abertos",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 tvg-id="BoasNovas.br@SD" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Undefined",Boas Novas (1080p)
+#EXTINF:-1 tvg-id="BoasNovas.br@SD" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Religiosos",Boas Novas (1080p)
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal38.br@SD" tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="News",Canal 38 (720p)
+#EXTINF:-1 tvg-id="Canal38.br@SD" tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="Notícias",Canal 38 (720p)
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-#EXTINF:-1 tvg-id="ChromaTV.br@SD" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="Entertainment",Chroma TV (480p)
+#EXTINF:-1 tvg-id="ChromaTV.br@SD" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="Entretenimento",Chroma TV (480p)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-id="COMBrasil.br@SD" tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="General",COM Brasil (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="COMBrasil.br@SD" tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Canais Abertos",COM Brasil (1080p) [Not 24/7]
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-id="ConexaoTV.br@SD" tvg-logo="https://i.imgur.com/CJ9SPsZ.png" group-title="General",Conexão TV (720p)
+#EXTINF:-1 tvg-id="ConexaoTV.br@SD" tvg-logo="https://i.imgur.com/CJ9SPsZ.png" group-title="Canais Abertos",Conexão TV (720p)
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="DespertarTV.br@HD" tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png" group-title="Religious",Despertar TV (720p)
+#EXTINF:-1 tvg-id="DespertarTV.br@HD" tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png" group-title="Religiosos",Despertar TV (720p)
 https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="EUTV.br@SD" tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="General",EUTV (720p)
+#EXTINF:-1 tvg-id="EUTV.br@SD" tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="Canais Abertos",EUTV (720p)
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="FalaLitoral.br@SD" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="General",Fala Litoral (480p)
+#EXTINF:-1 tvg-id="FalaLitoral.br@SD" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="Canais Abertos",Fala Litoral (480p)
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
-#EXTINF:-1 tvg-id="FonteTV.br@SD" tvg-logo="https://i.imgur.com/7q2BmNc.png" group-title="Religious",Fonte TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="FonteTV.br@SD" tvg-logo="https://i.imgur.com/7q2BmNc.png" group-title="Religiosos",Fonte TV (1080p) [Not 24/7]
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 tvg-id="NovaEraTV.br@SD" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Undefined",Nova Era TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="NovaEraTV.br@SD" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Canais Abertos",Nova Era TV (1080p) [Not 24/7]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-id="PlenaTV.br@SD" tvg-logo="https://i.imgur.com/lH4RT7b.png" group-title="News",Plena TV (720p)
+#EXTINF:-1 tvg-id="PlenaTV.br@SD" tvg-logo="https://i.imgur.com/lH4RT7b.png" group-title="Notícias",Plena TV (720p)
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-id="RBATV.br@SD" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="General",RBATV (720p)
+#EXTINF:-1 tvg-id="RBATV.br@SD" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="Canais Abertos",RBATV (720p)
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTInterior.br@SD" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="General",SBT Interior (720p)
+#EXTINF:-1 tvg-id="SBTInterior.br@SD" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Canais Abertos",SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="SertaoTV.br@SD" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="General",Sertão TV (720p)
+#EXTINF:-1 tvg-id="SertaoTV.br@SD" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="Canais Abertos",Sertão TV (720p)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="STZTV.br@SD" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Culture;News",STZ TV (1080p)
+#EXTINF:-1 tvg-id="STZTV.br@SD" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Cultura e Educação",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Religious",TV Aparecida (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Religiosos",TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="Undefined",TV Cancao Nova (720p)
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="Religiosos",TV Cancao Nova (720p)
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMaisMarica.br@SD" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="General",TV Mais Maricá (1080p)
+#EXTINF:-1 tvg-id="TVMaisMarica.br@SD" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="Canais Abertos",TV Mais Maricá (1080p)
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPantanalMS.br@SD" tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="Undefined",TV Pantanal MS (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPantanalMS.br@SD" tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="Canais Abertos",TV Pantanal MS (360p) [Not 24/7]
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPassoFundo.br@SD" tvg-logo="https://i.imgur.com/QFE6TiV.png" group-title="General",TV Passo Fundo (720p)
+#EXTINF:-1 tvg-id="TVPassoFundo.br@SD" tvg-logo="https://i.imgur.com/QFE6TiV.png" group-title="Canais Abertos",TV Passo Fundo (720p)
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSimCachoeiro.br@SD" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="News",TV Sim Cachoeiro (720p)
+#EXTINF:-1 tvg-id="TVSimCachoeiro.br@SD" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Notícias",TV Sim Cachoeiro (720p)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSimSaoMateus.br@SD" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="News",TV Sim São Mateus (720p)
+#EXTINF:-1 tvg-id="TVSimSaoMateus.br@SD" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Notícias",TV Sim São Mateus (720p)
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSuldeMinas.br@SD" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="General",TV Sul de Minas (720p)
+#EXTINF:-1 tvg-id="TVSuldeMinas.br@SD" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="Canais Abertos",TV Sul de Minas (720p)
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTerceiroAnjo.br@SD" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="Religious",TV Terceiro Anjo (360p)
+#EXTINF:-1 tvg-id="TVTerceiroAnjo.br@SD" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="Religiosos",TV Terceiro Anjo (360p)
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUFG.br@SD" tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="Education",TV UFG (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVUFG.br@SD" tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="Cultura e Educação",TV UFG (720p) [Not 24/7]
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF:-1 tvg-id="TVVicosa.br@SD" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="Entertainment",TV Viçosa (480p)
+#EXTINF:-1 tvg-id="TVVicosa.br@SD" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="Entretenimento",TV Viçosa (480p)
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVVilaReal.br@SD" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="Undefined",TV Vila Real (720p)
+#EXTINF:-1 tvg-id="TVVilaReal.br@SD" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="Canais Abertos",TV Vila Real (720p)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-id="TVZoom.br@SD" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Entertainment;News",TV Zoom (720p)
+#EXTINF:-1 tvg-id="TVZoom.br@SD" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Notícias",TV Zoom (720p)
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1 tvg-id="TVComunitaria.br@SD" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="General",TVCOM DF (360p)
+#EXTINF:-1 tvg-id="TVComunitaria.br@SD" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="Canais Abertos",TVCOM DF (360p)
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="TVNBN.br@SD" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="General",TVNBN (720p)
+#EXTINF:-1 tvg-id="TVNBN.br@SD" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="Canais Abertos",TVNBN (720p)
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 tvg-id="UnisulTV.br@SD" tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="Culture;Education",UNISUL TV (720p)
+#EXTINF:-1 tvg-id="UnisulTV.br@SD" tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="Cultura e Educação",UNISUL TV (720p)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
-#EXTINF:0 group-title="Religioso" tvg-id="REDE.BOAS.NOVAS.-.NET.MANAUS.br" tvg-name="Boas Novas Manaus" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Rede_Boas_Novas.png/200px-Rede_Boas_Novas.png" url-tvg="https://github.com/epgshare01/share01/blob/master/epg_ripper_BR1.xml.gz?raw=true" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Boas Novas Manaus
+#EXTINF:0 group-title="Religiosos" tvg-id="REDE.BOAS.NOVAS.-.NET.MANAUS.br" tvg-name="Boas Novas Manaus" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Rede_Boas_Novas.png/200px-Rede_Boas_Novas.png" url-tvg="https://github.com/epgshare01/share01/blob/master/epg_ripper_BR1.xml.gz?raw=true" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Boas Novas Manaus
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-#EXTINF:0 group-title="Religioso" tvg-id="" tvg-name="TV Ouro Negro" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Ouro Negro
+#EXTINF:0 group-title="Religiosos" tvg-id="" tvg-name="TV Ouro Negro" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Ouro Negro
 https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
-#EXTINF:0 group-title="Educativo" tvg-id="" tvg-name="TV Metrópole" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Metrópole
+#EXTINF:0 group-title="Cultura e Educação" tvg-id="" tvg-name="TV Metrópole" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:0 group-title="Geral" tvg-id="TV.DIÁRIO.FORTALEZA.e.NATAL.br" tvg-name="TV Diário" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/500px-TV_Di%C3%A1rio_logo.svg.png" url-tvg="https://github.com/epgshare01/share01/blob/master/epg_ripper_BR1.xml.gz?raw=true" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Diário
+#EXTINF:0 group-title="Canais Abertos" tvg-id="TV.DIÁRIO.FORTALEZA.e.NATAL.br" tvg-name="TV Diário" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/500px-TV_Di%C3%A1rio_logo.svg.png" url-tvg="https://github.com/epgshare01/share01/blob/master/epg_ripper_BR1.xml.gz?raw=true" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Diário
 https://www.dailymotion.com/video/x7txn7q
-#EXTINF:0 group-title="Legislativo" tvg-id="TVCamara.br(m3u4u)" tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Câmara
+#EXTINF:0 group-title="Público e Legislativo" tvg-id="TVCamara.br(m3u4u)" tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:0 group-title="Geral" tvg-id="" tvg-name="SBT Brasília" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", SBT Brasília
+#EXTINF:0 group-title="Canais Abertos" tvg-id="" tvg-name="SBT Brasília" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", SBT Brasília
 https://www.youtube.com/user/TVSBTBrasilia/live
-#EXTINF:0 group-title="Governamental" tvg-id="TV.JUSTIÇA.br" tvg-name="TV Justiça" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Justiça
+#EXTINF:0 group-title="Público e Legislativo" tvg-id="TV.JUSTIÇA.br" tvg-name="TV Justiça" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Justiça
 https://www.youtube.com/channel/UC0qlZ5jxxueKNzUERcrllNw/live
-#EXTINF:0 group-title="Religioso" tvg-id="" tvg-name="Fonte TV" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Fonte TV
+#EXTINF:0 group-title="Religiosos" tvg-id="" tvg-name="Fonte TV" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Fonte TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:0 group-title="Legislativo" tvg-id="TVAssembleiadeMinasGerais.br(m3u4u)" tvg-name="TV ALMG" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV ALMG
+#EXTINF:0 group-title="Público e Legislativo" tvg-id="TVAssembleiadeMinasGerais.br(m3u4u)" tvg-name="TV ALMG" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV ALMG
 https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:0 group-title="Religioso" tvg-id="HorizonteTV.br(m3u4u)" tvg-name="TV Horizonte" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Horizonte
+#EXTINF:0 group-title="Religiosos" tvg-id="HorizonteTV.br(m3u4u)" tvg-name="TV Horizonte" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Horizonte
 https://www.youtube.com/channel/UC_n4rC_MIZVtpKHmtIc_QbQ/live
-#EXTINF:0 group-title="Religioso" tvg-id="" tvg-name="O Caminho Antigo" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", O Caminho Antigo
+#EXTINF:0 group-title="Religiosos" tvg-id="" tvg-name="O Caminho Antigo" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", O Caminho Antigo
 https://www.youtube.com/channel/UC-ifnHf4QVhOS7ZKQTkfXdQ/live
-#EXTINF:0 group-title="Geral" tvg-id="" tvg-name="TV Viçosa" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Viçosa
+#EXTINF:0 group-title="Entretenimento" tvg-id="" tvg-name="TV Viçosa" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Viçosa
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:0 group-title="Geral" tvg-id="" tvg-name="SBT Pará" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", SBT Pará
+#EXTINF:0 group-title="Canais Abertos" tvg-id="" tvg-name="SBT Pará" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", SBT Pará
 https://www.youtube.com/user/SBTPara/live
-#EXTINF:0 group-title="Legislativo" tvg-id="" tvg-name="TV ALERJ" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV ALERJ
+#EXTINF:0 group-title="Público e Legislativo" tvg-id="" tvg-name="TV ALERJ" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV ALERJ
 https://www.youtube.com/channel/UCH1a8t5cikU9cYa69BLVfbQ/live
 #EXTINF:0 group-title="Notícias" tvg-id="" tvg-name="Diário TV Teresópolis" tvg-logo="https://www.netdiario.com.br/img/logo.png" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Diário TV Teresópolis
 https://www.youtube.com/channel/UCYA_8op4pkwqWxbmcW-pzzQ/live
-#EXTINF:0 group-title="Geral" tvg-id="" tvg-name="SBT RS" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", SBT RS
+#EXTINF:0 group-title="Canais Abertos" tvg-id="" tvg-name="SBT RS" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", SBT RS
 https://www.youtube.com/user/TVSBTRS/live
-#EXTINF:0 group-title="Geral" tvg-id="" tvg-name="SCC SBT" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", SCC SBT
+#EXTINF:0 group-title="Canais Abertos" tvg-id="" tvg-name="SCC SBT" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", SCC SBT
 https://www.youtube.com/channel/UCEzVIIPtAIfsRCEHwn4AOzw/live
-#EXTINF:0 group-title="Religioso" tvg-id="CancaoNova.br(m3u4u)" tvg-name="Cançăo Nova" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Cançăo Nova
+#EXTINF:0 group-title="Religiosos" tvg-id="CancaoNova.br(m3u4u)" tvg-name="Cançăo Nova" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Cançăo Nova
 https://www.youtube.com/channel/UCVrKQMmA2ew9LFzeIDaOFgw/live
-#EXTINF:0 group-title="Religioso" tvg-id="TVNovoTempo.br(m3u4u)" tvg-name="TV Novo Tempo" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Novo Tempo
+#EXTINF:0 group-title="Religiosos" tvg-id="TVNovoTempo.br(m3u4u)" tvg-name="TV Novo Tempo" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:0 group-title="Geral" tvg-id="" tvg-name="Canal 25 Jundiaí" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Canal 25 Jundiaí
+#EXTINF:0 group-title="Canais Abertos" tvg-id="" tvg-name="Canal 25 Jundiaí" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Canal 25 Jundiaí
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:0 group-title="Geral" tvg-id="" tvg-name="VTV SBT" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", VTV SBT
+#EXTINF:0 group-title="Canais Abertos" tvg-id="" tvg-name="VTV SBT" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", VTV SBT
 https://www.youtube.com/channel/UC40TUSUx490U5uR1lZt3Ajg/live
 #EXTINF:0 group-title="Notícias" tvg-id="RecordNews.br(m3u4u)" tvg-name="Record News SP" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Record News SP
 https://www.youtube.com/watch?v=eFiNz4ZlWA0
-#EXTINF:0 group-title="Legislativo" tvg-id="TVALESP.br(m3u4u)" tvg-name="Rede ALESP" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Rede ALESP
+#EXTINF:0 group-title="Público e Legislativo" tvg-id="TVALESP.br(m3u4u)" tvg-name="Rede ALESP" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Rede ALESP
 https://www.youtube.com/user/assembleiaspconteudo/live
-#EXTINF:0 group-title="Geral" tvg-id="SBT.br(m3u4u)" tvg-name="SBT Săo Paulo" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", SBT Săo Paulo
+#EXTINF:0 group-title="Canais Abertos" tvg-id="SBT.br(m3u4u)" tvg-name="SBT Săo Paulo" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", SBT Săo Paulo
 https://www.youtube.com/watch?v=ABVQXgr2LW4
-#EXTINF:0 group-title="Religioso" tvg-id="RIT.TV.br" tvg-name="RIT TV" tvg-logo="" url-tvg="https://github.com/epgshare01/share01/blob/master/epg_ripper_BR1.xml.gz?raw=true" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", RIT TV
+#EXTINF:0 group-title="Religiosos" tvg-id="RIT.TV.br" tvg-name="RIT TV" tvg-logo="" url-tvg="https://github.com/epgshare01/share01/blob/master/epg_ripper_BR1.xml.gz?raw=true" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", RIT TV
 https://www.youtube.com/channel/UCA0bOG0NUfJ855eDtHSxOkw/live
