@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://x1co.com.br/logo.png" group-title="Infantil",NICKONLINE
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil", Nickelodeon
 https://x1co.com.br:8443/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yo6hRmqjhoI74Txazrwqhjv5uu5YW71LCj7kslTzWcW7g.png" group-title="Esportes",BR: ESPN
